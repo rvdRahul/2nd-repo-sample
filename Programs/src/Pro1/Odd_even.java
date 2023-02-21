@@ -37,7 +37,7 @@ public class Odd_even {
 			else
 			{
 				
-				System.out.println("second number is greater than first ");
+				System.out.println("second number is bigger than first ");
 		
 			}
 		}
